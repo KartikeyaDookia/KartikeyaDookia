@@ -1,190 +1,165 @@
-````md
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+There+%F0%9F%91%8B+I'm+Kartikeya+Dookia;Full-Stack+Developer+%7C+Product+Engineer;React.js+%E2%80%A2+Node.js+%E2%80%A2+System+Design;1500%2B+DSA+Problems+Solved;Building+Scalable+Software+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Dynamic Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Kartikeya+Dookia+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Problem+Solver)](https://git.io/typing-svg)
+
+<!-- Animated Coding Banner -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b3403f2-6d7b-45d9-8f43-7b2e5f0d8e65.gif" width="100%" />
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartikeya-dookia-648299216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/user3759pH/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://github.com/KartikeyaDookia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KartikeyaDookia&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## `$ whoami`
 
-```yaml
-name: Kartikeya Dookia
-role: Software Engineer / Full-Stack Developer
-experience: 3+ Years
-
-specialization:
-  - Full-Stack Development
-  - Product Engineering
-  - Scalable Systems
-  - System Design
-
-tech_stack:
-  - React.js
-  - Node.js
-  - MongoDB
-  - JavaScript
-  - TypeScript
-  - Express.js
-  - PostgreSQL
-  - Docker
-
-problem_solving:
-  - 1500+ DSA Problems Solved
-  - Competitive Programming Enthusiast
-
-interests:
-  - Clean Architecture
-  - Distributed Systems
-  - Backend Engineering
-  - Performance Optimization
+```typescript
+const kartikeya: Developer = {
+  role        : "Full-Stack Engineer & Product Engineer",
+  experience  : "3+ years",
+  location    : "India 🇮🇳",
+  focus       : ["Scalable Systems", "Clean Architecture", "DSA"],
+  currentWork : "Building production-grade web applications",
+  dsaSolved   : "1500+ problems across LeetCode & Codeforces",
+  techStack   : {
+    frontend  : ["React.js", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+    backend   : ["Node.js", "Express.js", "REST APIs"],
+    database  : ["MongoDB", "SQL"],
+    tools     : ["Git", "Docker", "Postman", "VS Code"],
+    cloud     : ["AWS Basics", "Vercel", "Render"]
+  },
+  motto       : "Write code that speaks for itself."
+};
 ```
 
 ---
 
-# 🌐 Connect With Me
+## `$ cat tech_stack.txt`
 
 <div align="center">
 
-<a href="https://github.com/KartikeyaDookia">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<a href="https://www.linkedin.com/in/kartikeya-dookia-648299216/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🛠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<a href="https://leetcode.com/u/user3759pH/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-# ⚒️ Tech Stack
+## `$ cat github_stats.log`
 
 <div align="center">
 
-### Frontend
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KartikeyaDookia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaDookia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,firebase" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,nginx,aws" />
-
-### Problem Solving
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python" />
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com/?user=KartikeyaDookia&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## `$ ./contribution_graph.sh`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KartikeyaDookia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaDookia&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+[![Kartikeya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaDookia&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## `$ cat leetcode_profile.json`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KartikeyaDookia&theme=tokyonight&hide_border=true&border_radius=10"/>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/user3759pH?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10)](https://leetcode.com/u/user3759pH/)
+
+</div>
+
+> 🔥 **1500+ DSA Problems Solved** — Arrays, Trees, Graphs, DP, System Design & more
+
+---
+
+## `$ ls -la ./trophies`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KartikeyaDookia&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## `$ tail -f ./currently_building.log`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KartikeyaDookia&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaDookia&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/user3759pH?theme=dark&font=Nunito&ext=heatmap" />
-
-</div>
-
----
-
-# 🚀 What I Do
-
-```text
-⚡ Build scalable full-stack applications
-⚡ Design clean backend architectures
-⚡ Create performant frontend systems
-⚡ Solve complex DSA & CP problems
-⚡ Focus on scalable product engineering
-⚡ Learn distributed systems & low-level design
+```bash
+[INFO]  Scalable full-stack applications with React + Node + MongoDB
+[INFO]  Exploring system design patterns & distributed systems
+[INFO]  Sharpening DSA skills — grinding contests on LeetCode & Codeforces
+[INFO]  Open to exciting full-time roles at product-based companies
 ```
 
 ---
 
-# 💻 Developer Philosophy
-
 <div align="center">
 
-> “First, solve the problem. Then, write the clean architecture.”
+### 💬 Let's connect and build something great together
+
+[![LinkedIn](https://img.shields.io/badge/DM_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-dookia-648299216/)
+
+<br/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&reversal=false)
 
 </div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KartikeyaDookia&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
-
-</div>
-````
